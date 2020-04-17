@@ -99,7 +99,7 @@ init()
     .then(function(answers){
         const readMe = generateReadMe(answers);
 
-        return writeToFile('READ.md', readMe)
+        return writeToFile('README.md', readMe)
     })
     .then(function(){
         console.log('Successfully wrote to README.md');

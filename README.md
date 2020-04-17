@@ -3,7 +3,7 @@
 
     ### Description
 
-    website
+    my website
 
     ### Table of Contents
 
@@ -19,7 +19,7 @@
 
     ### Usage
 
-    link
+    show my stuff
 
     ### License
 
@@ -27,7 +27,7 @@
 
     ### Contributors
 
-    [![GitHub contributors](https://img.shields.io/github/contributors/undefined/Phils-Portfolio)](https://GitHub.com/undefined/Phils-Portfolio/graphs/contributors/)
+    [![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
 
     ### Tests
 
