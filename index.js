@@ -49,42 +49,42 @@ const questions = [
 
 function generateReadMe(answers){
     return `
-    # ${answers.title}
+# ${answers.title}
 
-    ### Description
+### Description
 
-    ${answers.description}
+${answers.description}
 
-    ### Table of Contents
+### Table of Contents
 
-    [Installation](#installation)
-    [Usage](#usage)
-    [License](#license)
-    [Contributing](#contributing)
-    [Tests](#tests)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
 
-    ### Installation
+### Installation
 
-    ${answers.install}
+${answers.install}
 
-    ### Usage
+### Usage
 
-    ${answers.use}
+${answers.use}
 
-    ### License
+### License
 
-    ${answers.license}
+${answers.license}
 
-    ### Contributors
+### Contributors
 
-    [![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
 
-    ### Tests
+### Tests
 
-    ${answers.tests}
+${answers.tests}
 
-    ### Github
-    `
+### Github
+`
 }
 
 // function writeToFile(fileName, data) {

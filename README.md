@@ -1,37 +1,36 @@
 
-    # Phils-Portfolio
+# Phils-Portfolio
 
-    ### Description
+## Description
 
-    my website
+my website
 
-    ### Table of Contents
+## Table of Contents
 
-    [Installation](#installation)
-    [Usage](#usage)
-    [License](#license)
-    [Contributing](#contributing)
-    [Tests](#tests)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
 
-    ### Installation
+## Installation
 
-    you dont
+you dont
 
-    ### Usage
+### Usage
 
-    show my stuff
+show my stuff
 
-    ### License
+### License
 
-    mit
+none
 
-    ### Contributors
+### Contributors
 
-    [![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
 
-    ### Tests
+### Tests
 
-    none
+none
 
-    ### Github
-    
+### Github
