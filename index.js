@@ -44,6 +44,11 @@ const questions = [
         type: 'input',
         message: 'Which is your Github email?',
         name: 'email'
+    },
+    {
+        type: 'input',
+        message: 'Which is your repository name?(Case sensitive)',
+        name: 'repo'
     }
 ];
 
@@ -51,13 +56,13 @@ function generateReadMe(answers){
     return `
 # ${answers.title}
 
-![File Size](https://img.shields.io/github/size/${answers.username}/${answers.title})
-![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.title})
-![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.title}/total)
+    ![File Size](https://img.shields.io/github/size/${answers.username}/${answers.repo})
+    ![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.repo})
+    ![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.repo}/total)
 
 ## Description
 
-${answers.description}
+    ${answers.description}
 
 ## Table of Contents
 
@@ -69,31 +74,31 @@ ${answers.description}
 
 ## Installation
 
-${answers.install}
+    ${answers.install}
 
 ## Usage
 
-${answers.use}
+    ${answers.use}
 
 ## License
 
-![GitHub License](https://img.shields.io/github/license/${answers.username}/${answers.title})
+    ![GitHub License](https://img.shields.io/github/license/${answers.username}/${answers.repo})
 
 ## Contributors
 
-[![GitHub Contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
+    [![GitHub Contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.repo})](https://GitHub.com/${answers.username}/${answers.repo}/graphs/contributors/)
 
 ## Tests
 
-${answers.tests}
+    ${answers.tests}
 
 ## Github
 
-Username: ${answers.username}
+    Username: ${answers.username}
 
-Email: ${answers.email}
+    Email: ${answers.email}
 
-![Github Profile Picture](https://avatars2.githubusercontent.com/${answers.username})
+    ![Github Profile Picture](https://avatars2.githubusercontent.com/${answers.username})
 `
 }
 
