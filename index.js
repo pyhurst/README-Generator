@@ -52,6 +52,7 @@ function generateReadMe(answers){
 # ${answers.title}
 
 ![File Size](https://img.shields.io/github/size/${answers.username}/${answers.title})
+![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.title})
 ![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.title}/total)
 
 ## Description
@@ -80,7 +81,7 @@ ${answers.use}
 
 ## Contributors
 
-![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})
+![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})(https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
 
 ## Tests
 

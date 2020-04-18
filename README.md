@@ -2,6 +2,7 @@
 # Phils-Portfolio
 
 ![File Size](https://img.shields.io/github/size/pyhurst/Phils-Portfolio)
+![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)
 ![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)
 
 ## Description
@@ -22,7 +23,7 @@ open the link
 
 ## Usage
 
-create a readme
+create a readme file
 
 ## License
 
@@ -30,7 +31,7 @@ create a readme
 
 ## Contributors
 
-![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)
+![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)(https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
 
 ## Tests
 
