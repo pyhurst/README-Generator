@@ -12,6 +12,7 @@ my website
 [License](#license)
 [Contributing](#contributing)
 [Tests](#tests)
+[Github](#github)
 
 ## Installation
 

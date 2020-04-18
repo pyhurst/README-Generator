@@ -51,39 +51,42 @@ function generateReadMe(answers){
     return `
 # ${answers.title}
 
-### Description
+## Description
 
 ${answers.description}
 
-### Table of Contents
+## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
+--*[Installation](#installation)
+--*[Usage](#usage)
+--*[License](#license)
+--*[Contributing](#contributing)
+--*[Tests](#tests)
 
-### Installation
+## Installation
 
 ${answers.install}
 
-### Usage
+## Usage
 
 ${answers.use}
 
-### License
+## License
 
 ${answers.license}
 
-### Contributors
+## Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
 
-### Tests
+## Tests
 
 ${answers.tests}
 
-### Github
+## Github
+
+Username: ${answers.username}
+Email: ${answers.email}
 `
 }
 
@@ -107,7 +110,3 @@ init()
     .catch(function(err){
         console.log(err)
 });
-
-
-// ![](https://img.shields.io/badge/license-MIT-green)
-// ![Repo size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)
