@@ -51,8 +51,8 @@ function generateReadMe(answers){
     return `
 # ${answers.title}
 
-[![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.title})]
-[![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.title}/total)]
+![File Size](https://img.shields.io/github/size/${answers.username}/${answers.title})
+![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.title}/total)
 
 ## Description
 
@@ -76,11 +76,11 @@ ${answers.use}
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/${answers.username}/${answers.title})](https://github.com/${answers.username}/${answers.title}/blob/master/LICENSE)
+![GitHub license](https://img.shields.io/github/license/${answers.username}/${answers.title})
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
+![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})
 
 ## Tests
 
@@ -89,8 +89,10 @@ ${answers.tests}
 ## Github
 
 Username: ${answers.username}
+
 Email: ${answers.email}
-[![Github Profile Picture](https://avatars2.githubusercontent.com/${answers.username})]
+
+![Github Profile Picture](https://avatars2.githubusercontent.com/${answers.username})
 `
 }
 
@@ -116,3 +118,6 @@ init()
 });
 
 // [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+// (https://github.com/${answers.username}/${answers.title}/blob/master/LICENSE)
+// (https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
+//![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fpyhurst.github.io%2FProject_1_Brew%2F)

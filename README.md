@@ -1,8 +1,8 @@
 
 # Phils-Portfolio
 
-[![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)]
-[![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)]
+![File Size](https://img.shields.io/github/size/pyhurst/Phils-Portfolio)
+![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)
 
 ## Description
 
@@ -26,11 +26,11 @@ create a readme
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/pyhurst/Phils-Portfolio)](https://github.com/pyhurst/Phils-Portfolio/blob/master/LICENSE)
+![GitHub license](https://img.shields.io/github/license/pyhurst/Phils-Portfolio)
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
+![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)
 
 ## Tests
 
@@ -39,5 +39,7 @@ none
 ## Github
 
 Username: pyhurst
+
 Email: youngphil9@gmail.com
-[![Github Profile Picture](https://avatars2.githubusercontent.com/pyhurst)]
+
+![Github Profile Picture](https://avatars2.githubusercontent.com/pyhurst)
