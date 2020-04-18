@@ -7,31 +7,33 @@ my website
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Github](#github)
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Contributing](#contributing)
+*[Tests](#tests)
 
 ## Installation
 
 you dont
 
-### Usage
+## Usage
 
 show my stuff
 
-### License
+## License
 
 none
 
-### Contributors
+## Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
 
-### Tests
+## Tests
 
 none
 
-### Github
+## Github
+
+Username: pyhurst
+Email: youngphil9@gmail.com
