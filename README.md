@@ -1,9 +1,9 @@
 
 # To Beer or Not To Beer
 
-    ![File Size](https://img.shields.io/github/size/pyhurst/Phils-Portfolio)
-    ![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)
-    ![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)
+    ![File Size](https://img.shields.io/github/size/pyhurst/Project_1_Brew)
+    ![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Project_1_Brew)
+    ![Downloads](https://img.shields.io/github/downloads/pyhurst/Project_1_Brew/total)
 
 ## Description
 
@@ -27,11 +27,11 @@
 
 ## License
 
-    ![GitHub License](https://img.shields.io/github/license/pyhurst/Phils-Portfolio)
+    ![GitHub License](https://img.shields.io/github/license/pyhurst/Project_1_Brew)
 
 ## Contributors
 
-    [![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)](https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
+    [![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/Project_1_Brew)](https://GitHub.com/pyhurst/Project_1_Brew/graphs/contributors/)
 
 ## Tests
 
