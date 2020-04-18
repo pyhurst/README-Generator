@@ -1,9 +1,12 @@
 
 # Phils-Portfolio
 
+[![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)]
+[![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)]
+
 ## Description
 
-my website
+my first website
 
 ## Table of Contents
 
@@ -15,15 +18,15 @@ my website
 
 ## Installation
 
-you dont
+open the link
 
 ## Usage
 
-show my stuff
+create a readme
 
 ## License
 
-none
+[![GitHub license](https://img.shields.io/github/license/pyhurst/Phils-Portfolio)](https://github.com/pyhurst/Phils-Portfolio/blob/master/LICENSE)
 
 ## Contributors
 
@@ -37,3 +40,4 @@ none
 
 Username: pyhurst
 Email: youngphil9@gmail.com
+[![Github Profile Picture](https://avatars2.githubusercontent.com/pyhurst)]

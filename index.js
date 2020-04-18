@@ -25,11 +25,11 @@ const questions = [
         message: 'What is the use of your application?',
         name: 'use'
     },
-    {
-        type: 'input',
-        message: 'Which licenses do you have?',
-        name: 'license'
-    },
+    // {
+    //     type: 'input',
+    //     message: 'Which licenses do you have?',
+    //     name: 'license'
+    // },
     {
         type: 'input',
         message: 'What tests did you use?',
@@ -50,6 +50,9 @@ const questions = [
 function generateReadMe(answers){
     return `
 # ${answers.title}
+
+[![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.title})]
+[![Downloads](https://img.shields.io/github/downloads/${answers.username}/${answers.title}/total)]
 
 ## Description
 
@@ -73,7 +76,7 @@ ${answers.use}
 
 ## License
 
-${answers.license}
+[![GitHub license](https://img.shields.io/github/license/${answers.username}/${answers.title})](https://github.com/${answers.username}/${answers.title}/blob/master/LICENSE)
 
 ## Contributors
 
@@ -87,6 +90,7 @@ ${answers.tests}
 
 Username: ${answers.username}
 Email: ${answers.email}
+[![Github Profile Picture](https://avatars2.githubusercontent.com/${answers.username})]
 `
 }
 
@@ -110,3 +114,5 @@ init()
     .catch(function(err){
         console.log(err)
 });
+
+// [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
