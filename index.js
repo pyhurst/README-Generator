@@ -81,7 +81,7 @@ ${answers.use}
 
 ## Contributors
 
-![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})(https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})(https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)]
 
 ## Tests
 

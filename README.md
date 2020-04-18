@@ -31,7 +31,7 @@ create a readme file
 
 ## Contributors
 
-![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)(https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)(https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)]
 
 ## Tests
 
