@@ -12,7 +12,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Describe your project.',
+        message: 'Describe your project?',
         name: 'description'
     },
     {
@@ -77,11 +77,11 @@ ${answers.use}
 
 ## License
 
-![GitHub license](https://img.shields.io/github/license/${answers.username}/${answers.title})
+![GitHub License](https://img.shields.io/github/license/${answers.username}/${answers.title})
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})(https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)]
+[![GitHub Contributors](https://img.shields.io/github/contributors/${answers.username}/${answers.title})](https://GitHub.com/${answers.username}/${answers.title}/graphs/contributors/)
 
 ## Tests
 

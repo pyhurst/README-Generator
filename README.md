@@ -1,13 +1,13 @@
 
-# Phils-Portfolio
+# Project_1_Brew
 
-![File Size](https://img.shields.io/github/size/pyhurst/Phils-Portfolio)
-![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Phils-Portfolio)
-![Downloads](https://img.shields.io/github/downloads/pyhurst/Phils-Portfolio/total)
+![File Size](https://img.shields.io/github/size/pyhurst/Project_1_Brew)
+![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Project_1_Brew)
+![Downloads](https://img.shields.io/github/downloads/pyhurst/Project_1_Brew/total)
 
 ## Description
 
-my first website
+A website that will suggest beers and food pairings based on user inputs.
 
 ## Table of Contents
 
@@ -19,23 +19,23 @@ my first website
 
 ## Installation
 
-open the link
+No installation required.
 
 ## Usage
 
-create a readme file
+It is a website for users to find a beer with great food pairings! The user fills out parameters such as alcohol content, beer color, and bitterness. If beers within the parameters the user has choosen is found then the website will suggest up to 5 beers and 2 food pairings. Otherwise the user will be prompted to braoden his or her's search.
 
 ## License
 
-![GitHub license](https://img.shields.io/github/license/pyhurst/Phils-Portfolio)
+![GitHub License](https://img.shields.io/github/license/pyhurst/Project_1_Brew)
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/pyhurst/Phils-Portfolio)(https://GitHub.com/pyhurst/Phils-Portfolio/graphs/contributors/)]
+[![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/Project_1_Brew)](https://GitHub.com/pyhurst/Project_1_Brew/graphs/contributors/)
 
 ## Tests
 
-none
+None
 
 ## Github
 
