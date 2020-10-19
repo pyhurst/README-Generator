@@ -1,13 +1,13 @@
 
-# Express Note Taker
+# Eat Da Burger!
 
-![File Size](https://img.shields.io/github/size/pyhurst/Express-Note-Taker)
-![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Express-Note-Taker)
-![Downloads](https://img.shields.io/github/downloads/pyhurst/Express-Note-Taker/total)
+![File Size](https://img.shields.io/github/size/pyhurst/Eat-Da-Burger)
+![Repo Size](https://img.shields.io/github/repo-size/pyhurst/Eat-Da-Burger)
+![Downloads](https://img.shields.io/github/downloads/pyhurst/Eat-Da-Burger/total)
 
 ## Description
 
-Allows a user to create, save, and delete notes.
+Uses mysql to store burger responses and lets you virtually eat it.
 
 ## Table of Contents
 
@@ -19,19 +19,19 @@ Allows a user to create, save, and delete notes.
 
 ## Installation
 
-Website. Not installation required.
+Packages used are express, mysql, and express-handlebars.
 
 ## Usage
 
-Created for an easy way to store your notes! In the note taking page, the user will first see any previously saved notes on the left hand side where each title will be displayed.  You have the option of clicking on a saved title to read, edit, or delete the notes by clicking on the garbage can icon. On the right side of the page, there is a section for your title and notes. Once both sections have text, the user may save the notes and see the saved file on the left side with all of the other saved notes.  
+It is a single page web application that allows users to create and store burgers they want prepared. Once submitted, the burgers will appear in the prepared burgers list ready to be eaten! The user then has the option to devour the burger when he or she pleases. Once the burger is eated, the burger will show up the burgers devoured list. Lastly, the user may clear the devoured burger list whenver he or she feels the list is becoming too long! Have fun!
 
 ## License
 
-![GitHub License](https://img.shields.io/github/license/pyhurst/Express-Note-Taker)
+![GitHub License](https://img.shields.io/github/license/pyhurst/Eat-Da-Burger)
 
 ## Contributors
 
-[![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/Express-Note-Taker)](https://GitHub.com/pyhurst/Express-Note-Taker/graphs/contributors/)
+[![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/Eat-Da-Burger)](https://GitHub.com/pyhurst/Eat-Da-Burger/graphs/contributors/)
 
 ## Tests
 

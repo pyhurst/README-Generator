@@ -11,6 +11,11 @@ const questions = [
         name: 'title'
     },
     {
+        type:'input',
+        message: 'What is the link to your app?',
+        name: 'link'
+    },
+    {
         type: 'input',
         message: 'Describe your project?',
         name: 'description'
@@ -55,6 +60,7 @@ const questions = [
 function generateReadMe(answers){
     return `
 # ${answers.title}
+{answers.link}
 
 ![File Size](https://img.shields.io/github/size/${answers.username}/${answers.repo})
 ![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.repo})
