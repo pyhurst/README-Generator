@@ -60,7 +60,7 @@ const questions = [
 function generateReadMe(answers){
     return `
 # ${answers.title}
-{answers.link}
+Link: ${answers.link}
 
 ![File Size](https://img.shields.io/github/size/${answers.username}/${answers.repo})
 ![Repo Size](https://img.shields.io/github/repo-size/${answers.username}/${answers.repo})
